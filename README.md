@@ -1,6 +1,6 @@
 # Advanced 2D Physics Simulator
 
-![Physics Simulator](https://i.imgur.com/aMlrnJf.png)
+
 
 A feature-rich 2D physics simulation environment built with Python, leveraging pygame for rendering and pymunk for accurate physics calculations. This simulator provides an interactive playground for experimenting with physics objects in a customizable environment.
 
